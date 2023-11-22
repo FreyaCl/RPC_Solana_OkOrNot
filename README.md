@@ -1,4 +1,4 @@
-# RPC Solana OK or NOT OK
+# RPC Solana - OK or NOT OK
 RPC check on the Solana blockchain
 
 In this example, the `RpcClient` connection and the blockhash retrieval are performed in a more structured manner, using the `match` statement.
